@@ -43,7 +43,7 @@ The dataset for this project was sourced from Kaggle. It contains detailed recor
  -  Which items are the most popular in terms of quantity sold?
   - What is the total quantity returned for each category?
   - what is the sales perfromance by hour of the day?
-  -  What is profi tmargin per category?
+  -  What is profit margin per category?
 
 ### Findings
 - Certain categories, such as Flower/Leaf Vegetables and Capsicum, generate significantly higher revenue than others like Solanum and Aquatic Tuberous Vegetables.
